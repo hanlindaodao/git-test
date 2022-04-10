@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("change from hot-fix");
         System.out.println("master change 冲突");
         System.out.println("hot-fix has change test 冲突");
+        System.out.println("change from browser and test the pull");
     }
 }
