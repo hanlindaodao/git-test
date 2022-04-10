@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git3");
         System.out.println("hello git4");
         System.out.println("change from hot-fix");
+        System.out.println("hot-fix has change test 冲突");
     }
 }
