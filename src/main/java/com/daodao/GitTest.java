@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hot-fix has change test 冲突");
         System.out.println("change from browser and test the pull");
         System.out.println("gitee push test");
+        System.out.println("gitee change for test the pull from gitee");
     }
 }
